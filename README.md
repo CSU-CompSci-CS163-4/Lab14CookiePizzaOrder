@@ -37,4 +37,4 @@ Follow the [javadoc](https://csu-compsci-cs163-4.github.io/Lab14CookiePizzaOrder
 each method.
 
 ## Step 3: Finishing up
-To turn in your assignment, click through the link on Canvas, upload your files to Zybooks and click submit for grading. Note you can do this more than once.
+To turn in your assignment, zip CookiePizza.java, Pizza.java, & CustomerOrder.java and submit the files on canvas. Note you can do this more than once.
